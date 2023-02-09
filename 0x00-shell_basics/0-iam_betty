@@ -1,2 +1,3 @@
 #!/bin/bash
-su betty hello
+su betty
+
